@@ -28,7 +28,7 @@ const seedProducts = [
         mrp: 134900,
         price: 127400,
         image:
-          "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=800&q=80",
+          "https://unsplash.com/photos/two-rose-gold-iphones-on-an-orange-background-3EYu6B86yWk",
         emiPlans: buildEmiPlans(127400),
       },
       {
@@ -39,7 +39,7 @@ const seedProducts = [
         mrp: 134900,
         price: 127400,
         image:
-          "data/MGFE4.jpeg",
+          "https://unsplash.com/photos/two-rose-gold-iphones-on-an-orange-background-3EYu6B86yWk",
         emiPlans: buildEmiPlans(127400),
       },
       {
