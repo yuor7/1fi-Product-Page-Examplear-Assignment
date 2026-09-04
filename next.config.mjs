@@ -1,1 +1,8 @@
- /** @type {import('next').NextConfig} */ const nextConfig = { images: { unoptimized: true, }, }; export default nextConfig; Setting unoptimized: true globally (not just on individual <Image> components)
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  images: {
+    unoptimized: true,
+  },
+};
+
+export default nextConfig;
