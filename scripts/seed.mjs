@@ -1,5 +1,7 @@
 // Run with: node scripts/seed.mjs
 // Requires MONGODB_URI to be set (loads from .env.local automatically)
+console.log("🔥 NEW SEED SCRIPT RUNNING 🔥");
+console.log("Script path:", import.meta.url);
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 import path from "path";
