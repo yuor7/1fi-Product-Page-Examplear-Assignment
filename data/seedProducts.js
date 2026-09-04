@@ -39,7 +39,7 @@ const seedProducts = [
         mrp: 134900,
         price: 127400,
         image:
-          "data/MGFE4.jpeg",
+          "MGFE4.jpeg",
         emiPlans: buildEmiPlans(127400),
       },
       {
