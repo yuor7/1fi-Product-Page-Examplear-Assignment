@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { dbConnect } from "@/lib/mongodb";
 import Product from "@/models/Product";
-
+export const dynamic = "force-dynamic";
 // GET /api/products - list all products (summary view)
 export async function GET() {
   try {
