@@ -1,6 +1,8 @@
 import { NextResponse } from "next/server";
 import { dbConnect } from "@/lib/mongodb";
 import Product from "@/models/Product";
+export const dynamic = "force-dynamic";
+
 
 // GET /api/products/:slug - full product detail, including all variants + EMI plans
 export async function GET(request, { params }) {
