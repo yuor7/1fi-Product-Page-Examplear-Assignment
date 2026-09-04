@@ -123,7 +123,7 @@ const seedProducts = [
         mrp: 69999,
         price: 64999,
         image:
-          "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&q=80",
+          "https://image01-in.oneplus.net/media/202412/17/828ac8c16ce196b73cf17aac825faae1.png?x-amz-process=image/format,webp/quality,Q_80",
         emiPlans: buildEmiPlans(64999),
       },
       {
