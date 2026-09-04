@@ -18,7 +18,7 @@ const seedProducts = [
     name: "iPhone 17 Pro",
     brand: "Apple",
     description:
-      "The latest iPhone 17 Pro with A19 Pro chip, ProMotion display, and a redesigned camera system.",
+      "The latest iPhone 17 Pro with A19 Pro chip,.",
     variants: [
       {
         variantId: "256gb-silver",
