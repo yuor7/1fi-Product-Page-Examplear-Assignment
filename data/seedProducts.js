@@ -39,7 +39,7 @@ const seedProducts = [
         mrp: 134900,
         price: 127400,
         image:
-          "MGFE4.jpeg",
+          "https://unsplash.com/photos/two-rose-gold-iphones-on-an-orange-background-3EYu6B86yWk",
         emiPlans: buildEmiPlans(127400),
       },
       {
