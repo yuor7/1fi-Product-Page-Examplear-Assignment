@@ -60,17 +60,17 @@ const seedProducts = [
     name: "Samsung Galaxy S25 Ultra",
     brand: "Samsung",
     description:
-      "Samsung's flagship with a 200MP camera, S Pen, and a titanium frame.",
+      "Meet the new Galaxy S25 Ultra, the smartphone with titanium colors, a built-in S pen, best camera, custom-made processor, long-lasting battery and 200 MP Flagship Camera.",
     variants: [
       {
-        variantId: "256gb-titanium-black",
-        label: "256GB · Titanium Black",
+        variantId: "256gb-titanium-Silverblue",
+        label: "256GB · Titanium SilverBlue",
         color: "Titanium Black",
         storage: "256GB",
         mrp: 129999,
         price: 119999,
         image:
-          "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&q=80",
+          "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bzbbins-544702614?imbypass=true",
         emiPlans: buildEmiPlans(119999),
       },
       {
@@ -81,18 +81,18 @@ const seedProducts = [
         mrp: 129999,
         price: 119999,
         image:
-          "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&q=80",
+          "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-544702947?imbypass=true",
         emiPlans: buildEmiPlans(119999),
       },
       {
         variantId: "512gb-titanium-black",
-        label: "512GB · Titanium Black",
+        label: " 12 GB RAM 512GB · Titanium Black",
         color: "Titanium Black",
         storage: "512GB",
         mrp: 144999,
         price: 134999,
         image:
-          "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&q=80",
+          "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bzkbins-544702762?imbypass=true",
         emiPlans: buildEmiPlans(134999),
       },
     ],
